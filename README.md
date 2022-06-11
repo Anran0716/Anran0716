@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently a Master Student at **UPenn** and a prospective PhD student at **UFL** 😄. 
+I am currently a PhD student at **UF** 😄. 
 - 🔭 My research interest covers **Transportation Planning**, **Urban Studies** and **Health Geography**.
 - 🚀 I am proficient with: 
   ![GIS](https://img.shields.io/badge/🌍-GIS-<brightgreen>) 
