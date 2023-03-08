@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am currently a PhD student at **UF** 😄. 
-- 🔭 My research interest covers **Transportation Planning**, **Urban Studies** and **Health Geography**.
+- 🔭 My research interest covers **Public transit & shared mobility**, **Machine learning** and **Travel behavior analysis**.
 - 🚀 I am proficient with: 
   ![GIS](https://img.shields.io/badge/🌍-GIS-<brightgreen>) 
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python) 
