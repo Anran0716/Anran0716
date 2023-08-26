@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am currently a MS student at **UF** 😄. 
-- 🔭 Currently I am looking for intern and full-time position regarding **transportation data scientist and GIS analyst**.
+I am a MS student of **Transportation Engineering** at **UF** 😄. 
+- 🔭 Currently I am looking for internship and full-time position as **transportation data scientist and GIS analyst**.
 - 🚀 I am proficient with: 
   ![GIS](https://img.shields.io/badge/🌍-GIS-<brightgreen>) 
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python) 
