@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a **GIS Analyst** at **AECOM** 😄. 
+I am a **Data Analyst** at **AECOM** 😄. 
 - 🚀 I am proficient with: 
   ![GIS](https://img.shields.io/badge/🌍-GIS-<brightgreen>) 
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python) 
